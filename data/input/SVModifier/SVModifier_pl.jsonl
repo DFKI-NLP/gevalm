@@ -1,0 +1,200 @@
+{"text": "Die suchenden Autoren lachen .", "text_masked": "Die suchenden Autoren [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Autoren schwimmen .", "text_masked": "Die suchenden Autoren [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Autoren reden .", "text_masked": "Die suchenden Autoren [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Autoren bleiben .", "text_masked": "Die suchenden Autoren [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Autoren trinken .", "text_masked": "Die suchenden Autoren [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Piloten lachen .", "text_masked": "Die suchenden Piloten [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Piloten schwimmen .", "text_masked": "Die suchenden Piloten [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Piloten reden .", "text_masked": "Die suchenden Piloten [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Piloten bleiben .", "text_masked": "Die suchenden Piloten [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Piloten trinken .", "text_masked": "Die suchenden Piloten [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Kunden lachen .", "text_masked": "Die suchenden Kunden [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Kunden schwimmen .", "text_masked": "Die suchenden Kunden [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Kunden reden .", "text_masked": "Die suchenden Kunden [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Kunden bleiben .", "text_masked": "Die suchenden Kunden [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Kunden trinken .", "text_masked": "Die suchenden Kunden [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Lehrer lachen .", "text_masked": "Die suchenden Lehrer [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Lehrer schwimmen .", "text_masked": "Die suchenden Lehrer [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Lehrer reden .", "text_masked": "Die suchenden Lehrer [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Lehrer bleiben .", "text_masked": "Die suchenden Lehrer [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Lehrer trinken .", "text_masked": "Die suchenden Lehrer [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Senatorinnen lachen .", "text_masked": "Die suchenden Senatorinnen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Senatorinnen schwimmen .", "text_masked": "Die suchenden Senatorinnen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Senatorinnen reden .", "text_masked": "Die suchenden Senatorinnen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Senatorinnen bleiben .", "text_masked": "Die suchenden Senatorinnen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Senatorinnen trinken .", "text_masked": "Die suchenden Senatorinnen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Beraterinnen lachen .", "text_masked": "Die suchenden Beraterinnen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Beraterinnen schwimmen .", "text_masked": "Die suchenden Beraterinnen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Beraterinnen reden .", "text_masked": "Die suchenden Beraterinnen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Beraterinnen bleiben .", "text_masked": "Die suchenden Beraterinnen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Beraterinnen trinken .", "text_masked": "Die suchenden Beraterinnen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Frauen lachen .", "text_masked": "Die suchenden Frauen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Frauen schwimmen .", "text_masked": "Die suchenden Frauen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Frauen reden .", "text_masked": "Die suchenden Frauen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Frauen bleiben .", "text_masked": "Die suchenden Frauen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Frauen trinken .", "text_masked": "Die suchenden Frauen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Polizistinnen lachen .", "text_masked": "Die suchenden Polizistinnen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Polizistinnen schwimmen .", "text_masked": "Die suchenden Polizistinnen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Polizistinnen reden .", "text_masked": "Die suchenden Polizistinnen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Polizistinnen bleiben .", "text_masked": "Die suchenden Polizistinnen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Polizistinnen trinken .", "text_masked": "Die suchenden Polizistinnen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Richterinnen lachen .", "text_masked": "Die suchenden Richterinnen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Richterinnen schwimmen .", "text_masked": "Die suchenden Richterinnen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Richterinnen reden .", "text_masked": "Die suchenden Richterinnen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Richterinnen bleiben .", "text_masked": "Die suchenden Richterinnen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Richterinnen trinken .", "text_masked": "Die suchenden Richterinnen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Kinder lachen .", "text_masked": "Die suchenden Kinder [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Kinder schwimmen .", "text_masked": "Die suchenden Kinder [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Kinder reden .", "text_masked": "Die suchenden Kinder [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Kinder bleiben .", "text_masked": "Die suchenden Kinder [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die suchenden Kinder trinken .", "text_masked": "Die suchenden Kinder [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Autoren lachen .", "text_masked": "Die wartenden Autoren [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Autoren schwimmen .", "text_masked": "Die wartenden Autoren [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Autoren reden .", "text_masked": "Die wartenden Autoren [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Autoren bleiben .", "text_masked": "Die wartenden Autoren [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Autoren trinken .", "text_masked": "Die wartenden Autoren [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Piloten lachen .", "text_masked": "Die wartenden Piloten [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Piloten schwimmen .", "text_masked": "Die wartenden Piloten [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Piloten reden .", "text_masked": "Die wartenden Piloten [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Piloten bleiben .", "text_masked": "Die wartenden Piloten [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Piloten trinken .", "text_masked": "Die wartenden Piloten [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Kunden lachen .", "text_masked": "Die wartenden Kunden [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Kunden schwimmen .", "text_masked": "Die wartenden Kunden [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Kunden reden .", "text_masked": "Die wartenden Kunden [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Kunden bleiben .", "text_masked": "Die wartenden Kunden [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Kunden trinken .", "text_masked": "Die wartenden Kunden [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Lehrer lachen .", "text_masked": "Die wartenden Lehrer [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Lehrer schwimmen .", "text_masked": "Die wartenden Lehrer [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Lehrer reden .", "text_masked": "Die wartenden Lehrer [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Lehrer bleiben .", "text_masked": "Die wartenden Lehrer [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Lehrer trinken .", "text_masked": "Die wartenden Lehrer [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Senatorinnen lachen .", "text_masked": "Die wartenden Senatorinnen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Senatorinnen schwimmen .", "text_masked": "Die wartenden Senatorinnen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Senatorinnen reden .", "text_masked": "Die wartenden Senatorinnen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Senatorinnen bleiben .", "text_masked": "Die wartenden Senatorinnen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Senatorinnen trinken .", "text_masked": "Die wartenden Senatorinnen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Beraterinnen lachen .", "text_masked": "Die wartenden Beraterinnen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Beraterinnen schwimmen .", "text_masked": "Die wartenden Beraterinnen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Beraterinnen reden .", "text_masked": "Die wartenden Beraterinnen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Beraterinnen bleiben .", "text_masked": "Die wartenden Beraterinnen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Beraterinnen trinken .", "text_masked": "Die wartenden Beraterinnen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Frauen lachen .", "text_masked": "Die wartenden Frauen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Frauen schwimmen .", "text_masked": "Die wartenden Frauen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Frauen reden .", "text_masked": "Die wartenden Frauen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Frauen bleiben .", "text_masked": "Die wartenden Frauen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Frauen trinken .", "text_masked": "Die wartenden Frauen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Polizistinnen lachen .", "text_masked": "Die wartenden Polizistinnen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Polizistinnen schwimmen .", "text_masked": "Die wartenden Polizistinnen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Polizistinnen reden .", "text_masked": "Die wartenden Polizistinnen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Polizistinnen bleiben .", "text_masked": "Die wartenden Polizistinnen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Polizistinnen trinken .", "text_masked": "Die wartenden Polizistinnen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Richterinnen lachen .", "text_masked": "Die wartenden Richterinnen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Richterinnen schwimmen .", "text_masked": "Die wartenden Richterinnen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Richterinnen reden .", "text_masked": "Die wartenden Richterinnen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Richterinnen bleiben .", "text_masked": "Die wartenden Richterinnen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Richterinnen trinken .", "text_masked": "Die wartenden Richterinnen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Kinder lachen .", "text_masked": "Die wartenden Kinder [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Kinder schwimmen .", "text_masked": "Die wartenden Kinder [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Kinder reden .", "text_masked": "Die wartenden Kinder [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Kinder bleiben .", "text_masked": "Die wartenden Kinder [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die wartenden Kinder trinken .", "text_masked": "Die wartenden Kinder [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Autoren lachen .", "text_masked": "Die lesenden Autoren [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Autoren schwimmen .", "text_masked": "Die lesenden Autoren [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Autoren reden .", "text_masked": "Die lesenden Autoren [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Autoren bleiben .", "text_masked": "Die lesenden Autoren [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Autoren trinken .", "text_masked": "Die lesenden Autoren [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Piloten lachen .", "text_masked": "Die lesenden Piloten [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Piloten schwimmen .", "text_masked": "Die lesenden Piloten [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Piloten reden .", "text_masked": "Die lesenden Piloten [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Piloten bleiben .", "text_masked": "Die lesenden Piloten [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Piloten trinken .", "text_masked": "Die lesenden Piloten [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Kunden lachen .", "text_masked": "Die lesenden Kunden [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Kunden schwimmen .", "text_masked": "Die lesenden Kunden [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Kunden reden .", "text_masked": "Die lesenden Kunden [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Kunden bleiben .", "text_masked": "Die lesenden Kunden [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Kunden trinken .", "text_masked": "Die lesenden Kunden [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Lehrer lachen .", "text_masked": "Die lesenden Lehrer [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Lehrer schwimmen .", "text_masked": "Die lesenden Lehrer [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Lehrer reden .", "text_masked": "Die lesenden Lehrer [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Lehrer bleiben .", "text_masked": "Die lesenden Lehrer [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Lehrer trinken .", "text_masked": "Die lesenden Lehrer [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Senatorinnen lachen .", "text_masked": "Die lesenden Senatorinnen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Senatorinnen schwimmen .", "text_masked": "Die lesenden Senatorinnen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Senatorinnen reden .", "text_masked": "Die lesenden Senatorinnen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Senatorinnen bleiben .", "text_masked": "Die lesenden Senatorinnen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Senatorinnen trinken .", "text_masked": "Die lesenden Senatorinnen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Beraterinnen lachen .", "text_masked": "Die lesenden Beraterinnen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Beraterinnen schwimmen .", "text_masked": "Die lesenden Beraterinnen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Beraterinnen reden .", "text_masked": "Die lesenden Beraterinnen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Beraterinnen bleiben .", "text_masked": "Die lesenden Beraterinnen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Beraterinnen trinken .", "text_masked": "Die lesenden Beraterinnen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Frauen lachen .", "text_masked": "Die lesenden Frauen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Frauen schwimmen .", "text_masked": "Die lesenden Frauen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Frauen reden .", "text_masked": "Die lesenden Frauen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Frauen bleiben .", "text_masked": "Die lesenden Frauen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Frauen trinken .", "text_masked": "Die lesenden Frauen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Polizistinnen lachen .", "text_masked": "Die lesenden Polizistinnen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Polizistinnen schwimmen .", "text_masked": "Die lesenden Polizistinnen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Polizistinnen reden .", "text_masked": "Die lesenden Polizistinnen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Polizistinnen bleiben .", "text_masked": "Die lesenden Polizistinnen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Polizistinnen trinken .", "text_masked": "Die lesenden Polizistinnen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Richterinnen lachen .", "text_masked": "Die lesenden Richterinnen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Richterinnen schwimmen .", "text_masked": "Die lesenden Richterinnen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Richterinnen reden .", "text_masked": "Die lesenden Richterinnen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Richterinnen bleiben .", "text_masked": "Die lesenden Richterinnen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Richterinnen trinken .", "text_masked": "Die lesenden Richterinnen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Kinder lachen .", "text_masked": "Die lesenden Kinder [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Kinder schwimmen .", "text_masked": "Die lesenden Kinder [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Kinder reden .", "text_masked": "Die lesenden Kinder [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Kinder bleiben .", "text_masked": "Die lesenden Kinder [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die lesenden Kinder trinken .", "text_masked": "Die lesenden Kinder [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Autoren lachen .", "text_masked": "Die sich beeilenden Autoren [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Autoren schwimmen .", "text_masked": "Die sich beeilenden Autoren [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Autoren reden .", "text_masked": "Die sich beeilenden Autoren [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Autoren bleiben .", "text_masked": "Die sich beeilenden Autoren [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Autoren trinken .", "text_masked": "Die sich beeilenden Autoren [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Piloten lachen .", "text_masked": "Die sich beeilenden Piloten [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Piloten schwimmen .", "text_masked": "Die sich beeilenden Piloten [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Piloten reden .", "text_masked": "Die sich beeilenden Piloten [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Piloten bleiben .", "text_masked": "Die sich beeilenden Piloten [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Piloten trinken .", "text_masked": "Die sich beeilenden Piloten [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Kunden lachen .", "text_masked": "Die sich beeilenden Kunden [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Kunden schwimmen .", "text_masked": "Die sich beeilenden Kunden [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Kunden reden .", "text_masked": "Die sich beeilenden Kunden [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Kunden bleiben .", "text_masked": "Die sich beeilenden Kunden [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Kunden trinken .", "text_masked": "Die sich beeilenden Kunden [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Lehrer lachen .", "text_masked": "Die sich beeilenden Lehrer [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Lehrer schwimmen .", "text_masked": "Die sich beeilenden Lehrer [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Lehrer reden .", "text_masked": "Die sich beeilenden Lehrer [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Lehrer bleiben .", "text_masked": "Die sich beeilenden Lehrer [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Lehrer trinken .", "text_masked": "Die sich beeilenden Lehrer [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Senatorinnen lachen .", "text_masked": "Die sich beeilenden Senatorinnen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Senatorinnen schwimmen .", "text_masked": "Die sich beeilenden Senatorinnen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Senatorinnen reden .", "text_masked": "Die sich beeilenden Senatorinnen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Senatorinnen bleiben .", "text_masked": "Die sich beeilenden Senatorinnen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Senatorinnen trinken .", "text_masked": "Die sich beeilenden Senatorinnen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Beraterinnen lachen .", "text_masked": "Die sich beeilenden Beraterinnen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Beraterinnen schwimmen .", "text_masked": "Die sich beeilenden Beraterinnen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Beraterinnen reden .", "text_masked": "Die sich beeilenden Beraterinnen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Beraterinnen bleiben .", "text_masked": "Die sich beeilenden Beraterinnen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Beraterinnen trinken .", "text_masked": "Die sich beeilenden Beraterinnen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Frauen lachen .", "text_masked": "Die sich beeilenden Frauen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Frauen schwimmen .", "text_masked": "Die sich beeilenden Frauen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Frauen reden .", "text_masked": "Die sich beeilenden Frauen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Frauen bleiben .", "text_masked": "Die sich beeilenden Frauen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Frauen trinken .", "text_masked": "Die sich beeilenden Frauen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Polizistinnen lachen .", "text_masked": "Die sich beeilenden Polizistinnen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Polizistinnen schwimmen .", "text_masked": "Die sich beeilenden Polizistinnen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Polizistinnen reden .", "text_masked": "Die sich beeilenden Polizistinnen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Polizistinnen bleiben .", "text_masked": "Die sich beeilenden Polizistinnen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Polizistinnen trinken .", "text_masked": "Die sich beeilenden Polizistinnen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Richterinnen lachen .", "text_masked": "Die sich beeilenden Richterinnen [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Richterinnen schwimmen .", "text_masked": "Die sich beeilenden Richterinnen [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Richterinnen reden .", "text_masked": "Die sich beeilenden Richterinnen [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Richterinnen bleiben .", "text_masked": "Die sich beeilenden Richterinnen [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Richterinnen trinken .", "text_masked": "Die sich beeilenden Richterinnen [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Kinder lachen .", "text_masked": "Die sich beeilenden Kinder [MASK] .", "candidates": ["lachen", "lacht"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Kinder schwimmen .", "text_masked": "Die sich beeilenden Kinder [MASK] .", "candidates": ["schwimmen", "schwimmt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Kinder reden .", "text_masked": "Die sich beeilenden Kinder [MASK] .", "candidates": ["reden", "redet"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Kinder bleiben .", "text_masked": "Die sich beeilenden Kinder [MASK] .", "candidates": ["bleiben", "bleibt"], "indexMASK": -2, "case": "SVModifier_pl"}
+{"text": "Die sich beeilenden Kinder trinken .", "text_masked": "Die sich beeilenden Kinder [MASK] .", "candidates": ["trinken", "trinkt"], "indexMASK": -2, "case": "SVModifier_pl"}

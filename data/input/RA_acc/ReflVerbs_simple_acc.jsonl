@@ -1,0 +1,72 @@
+{"text": "Ich bedanke mich .", "text_masked": "Ich bedanke [MASK] .", "candidates": ["mich", "sich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ich beeile mich .", "text_masked": "Ich beeile [MASK] .", "candidates": ["mich", "sich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ich erhole mich .", "text_masked": "Ich erhole [MASK] .", "candidates": ["mich", "sich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ich freue mich .", "text_masked": "Ich freue [MASK] .", "candidates": ["mich", "sich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ich irre mich .", "text_masked": "Ich irre [MASK] .", "candidates": ["mich", "sich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ich konzentriere mich .", "text_masked": "Ich konzentriere [MASK] .", "candidates": ["mich", "sich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ich wundere mich .", "text_masked": "Ich wundere [MASK] .", "candidates": ["mich", "sich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ich verbeuge mich .", "text_masked": "Ich verbeuge [MASK] .", "candidates": ["mich", "sich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ich verliebe mich .", "text_masked": "Ich verliebe [MASK] .", "candidates": ["mich", "sich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Du bedankst dich .", "text_masked": "Du bedankst [MASK] .", "candidates": ["dich", "euch"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Du beeilst dich .", "text_masked": "Du beeilst [MASK] .", "candidates": ["dich", "euch"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Du erholst dich .", "text_masked": "Du erholst [MASK] .", "candidates": ["dich", "euch"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Du freust dich .", "text_masked": "Du freust [MASK] .", "candidates": ["dich", "euch"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Du irrst dich .", "text_masked": "Du irrst [MASK] .", "candidates": ["dich", "euch"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Du konzentrierst dich .", "text_masked": "Du konzentrierst [MASK] .", "candidates": ["dich", "euch"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Du wunderst dich .", "text_masked": "Du wunderst [MASK] .", "candidates": ["dich", "euch"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Du verbeugst dich .", "text_masked": "Du verbeugst [MASK] .", "candidates": ["dich", "euch"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Du verliebst dich .", "text_masked": "Du verliebst [MASK] .", "candidates": ["dich", "euch"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Der Autor bedankt sich .", "text_masked": "Der Autor bedankt [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Der Autor beeilt sich .", "text_masked": "Der Autor beeilt [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Der Autor erholt sich .", "text_masked": "Der Autor erholt [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Der Autor freut sich .", "text_masked": "Der Autor freut [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Der Autor irrt sich .", "text_masked": "Der Autor irrt [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Der Autor konzentriert sich .", "text_masked": "Der Autor konzentriert [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Der Autor wundert sich .", "text_masked": "Der Autor wundert [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Der Autor verbeugt sich .", "text_masked": "Der Autor verbeugt [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Der Autor verliebt sich .", "text_masked": "Der Autor verliebt [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie bedankt sich .", "text_masked": "Sie bedankt [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie beeilt sich .", "text_masked": "Sie beeilt [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie erholt sich .", "text_masked": "Sie erholt [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie freut sich .", "text_masked": "Sie freut [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie irrt sich .", "text_masked": "Sie irrt [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie konzentriert sich .", "text_masked": "Sie konzentriert [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie wundert sich .", "text_masked": "Sie wundert [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie verbeugt sich .", "text_masked": "Sie verbeugt [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie verliebt sich .", "text_masked": "Sie verliebt [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Wir bedanken uns .", "text_masked": "Wir bedanken [MASK] .", "candidates": ["uns", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Wir beeilen uns .", "text_masked": "Wir beeilen [MASK] .", "candidates": ["uns", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Wir erholen uns .", "text_masked": "Wir erholen [MASK] .", "candidates": ["uns", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Wir freuen uns .", "text_masked": "Wir freuen [MASK] .", "candidates": ["uns", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Wir irren uns .", "text_masked": "Wir irren [MASK] .", "candidates": ["uns", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Wir konzentrieren uns .", "text_masked": "Wir konzentrieren [MASK] .", "candidates": ["uns", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Wir wundern uns .", "text_masked": "Wir wundern [MASK] .", "candidates": ["uns", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Wir verbeugen uns .", "text_masked": "Wir verbeugen [MASK] .", "candidates": ["uns", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Wir verlieben uns .", "text_masked": "Wir verlieben [MASK] .", "candidates": ["uns", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ihr bedankt euch .", "text_masked": "Ihr bedankt [MASK] .", "candidates": ["euch", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ihr beeilt euch .", "text_masked": "Ihr beeilt [MASK] .", "candidates": ["euch", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ihr erholt euch .", "text_masked": "Ihr erholt [MASK] .", "candidates": ["euch", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ihr freut euch .", "text_masked": "Ihr freut [MASK] .", "candidates": ["euch", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ihr irrt euch .", "text_masked": "Ihr irrt [MASK] .", "candidates": ["euch", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ihr konzentriert euch .", "text_masked": "Ihr konzentriert [MASK] .", "candidates": ["euch", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ihr wundert euch .", "text_masked": "Ihr wundert [MASK] .", "candidates": ["euch", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ihr verbeugt euch .", "text_masked": "Ihr verbeugt [MASK] .", "candidates": ["euch", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Ihr verliebt euch .", "text_masked": "Ihr verliebt [MASK] .", "candidates": ["euch", "dich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Die Autoren bedanken sich .", "text_masked": "Die Autoren bedanken [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Die Autoren beeilen sich .", "text_masked": "Die Autoren beeilen [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Die Autoren erholen sich .", "text_masked": "Die Autoren erholen [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Die Autoren freuen sich .", "text_masked": "Die Autoren freuen [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Die Autoren irren sich .", "text_masked": "Die Autoren irren [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Die Autoren konzentrieren sich .", "text_masked": "Die Autoren konzentrieren [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Die Autoren wundern sich .", "text_masked": "Die Autoren wundern [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Die Autoren verbeugen sich .", "text_masked": "Die Autoren verbeugen [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Die Autoren verlieben sich .", "text_masked": "Die Autoren verlieben [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie bedanken sich .", "text_masked": "Sie bedanken [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie beeilen sich .", "text_masked": "Sie beeilen [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie erholen sich .", "text_masked": "Sie erholen [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie freuen sich .", "text_masked": "Sie freuen [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie irren sich .", "text_masked": "Sie irren [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie konzentrieren sich .", "text_masked": "Sie konzentrieren [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie wundern sich .", "text_masked": "Sie wundern [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie verbeugen sich .", "text_masked": "Sie verbeugen [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}
+{"text": "Sie verlieben sich .", "text_masked": "Sie verlieben [MASK] .", "candidates": ["sich", "mich"], "indexMASK": -2, "case": "ReflVerbs_simple_acc"}

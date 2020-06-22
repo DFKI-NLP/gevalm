@@ -1,0 +1,65 @@
+{"text": "Der Autor lacht .", "text_masked": "Der Autor [MASK] .", "candidates": ["lacht", "lachen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Autor schwimmt .", "text_masked": "Der Autor [MASK] .", "candidates": ["schwimmt", "schwimmen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Autor redet .", "text_masked": "Der Autor [MASK] .", "candidates": ["redet", "reden"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Autor bleibt .", "text_masked": "Der Autor [MASK] .", "candidates": ["bleibt", "bleiben"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Autor trinkt .", "text_masked": "Der Autor [MASK] .", "candidates": ["trinkt", "trinken"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Pilot lacht .", "text_masked": "Der Pilot [MASK] .", "candidates": ["lacht", "lachen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Pilot schwimmt .", "text_masked": "Der Pilot [MASK] .", "candidates": ["schwimmt", "schwimmen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Pilot redet .", "text_masked": "Der Pilot [MASK] .", "candidates": ["redet", "reden"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Pilot bleibt .", "text_masked": "Der Pilot [MASK] .", "candidates": ["bleibt", "bleiben"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Pilot trinkt .", "text_masked": "Der Pilot [MASK] .", "candidates": ["trinkt", "trinken"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Kunde lacht .", "text_masked": "Der Kunde [MASK] .", "candidates": ["lacht", "lachen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Kunde schwimmt .", "text_masked": "Der Kunde [MASK] .", "candidates": ["schwimmt", "schwimmen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Kunde redet .", "text_masked": "Der Kunde [MASK] .", "candidates": ["redet", "reden"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Kunde bleibt .", "text_masked": "Der Kunde [MASK] .", "candidates": ["bleibt", "bleiben"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Kunde trinkt .", "text_masked": "Der Kunde [MASK] .", "candidates": ["trinkt", "trinken"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Lehrer lacht .", "text_masked": "Der Lehrer [MASK] .", "candidates": ["lacht", "lachen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Lehrer schwimmt .", "text_masked": "Der Lehrer [MASK] .", "candidates": ["schwimmt", "schwimmen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Lehrer redet .", "text_masked": "Der Lehrer [MASK] .", "candidates": ["redet", "reden"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Lehrer bleibt .", "text_masked": "Der Lehrer [MASK] .", "candidates": ["bleibt", "bleiben"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Lehrer trinkt .", "text_masked": "Der Lehrer [MASK] .", "candidates": ["trinkt", "trinken"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Senator lacht .", "text_masked": "Der Senator [MASK] .", "candidates": ["lacht", "lachen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Senator schwimmt .", "text_masked": "Der Senator [MASK] .", "candidates": ["schwimmt", "schwimmen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Senator redet .", "text_masked": "Der Senator [MASK] .", "candidates": ["redet", "reden"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Senator bleibt .", "text_masked": "Der Senator [MASK] .", "candidates": ["bleibt", "bleiben"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Der Senator trinkt .", "text_masked": "Der Senator [MASK] .", "candidates": ["trinkt", "trinken"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "er lacht .", "text_masked": "er [MASK] .", "candidates": ["lacht", "lachen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "er schwimmt .", "text_masked": "er [MASK] .", "candidates": ["schwimmt", "schwimmen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "er redet .", "text_masked": "er [MASK] .", "candidates": ["redet", "reden"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "er bleibt .", "text_masked": "er [MASK] .", "candidates": ["bleibt", "bleiben"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "er trinkt .", "text_masked": "er [MASK] .", "candidates": ["trinkt", "trinken"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "es lacht .", "text_masked": "es [MASK] .", "candidates": ["lacht", "lachen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "es schwimmt .", "text_masked": "es [MASK] .", "candidates": ["schwimmt", "schwimmen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "es redet .", "text_masked": "es [MASK] .", "candidates": ["redet", "reden"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "es bleibt .", "text_masked": "es [MASK] .", "candidates": ["bleibt", "bleiben"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "es trinkt .", "text_masked": "es [MASK] .", "candidates": ["trinkt", "trinken"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Senatorin lacht .", "text_masked": "Die Senatorin [MASK] .", "candidates": ["lacht", "lachen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Senatorin schwimmt .", "text_masked": "Die Senatorin [MASK] .", "candidates": ["schwimmt", "schwimmen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Senatorin redet .", "text_masked": "Die Senatorin [MASK] .", "candidates": ["redet", "reden"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Senatorin bleibt .", "text_masked": "Die Senatorin [MASK] .", "candidates": ["bleibt", "bleiben"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Senatorin trinkt .", "text_masked": "Die Senatorin [MASK] .", "candidates": ["trinkt", "trinken"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Beraterin lacht .", "text_masked": "Die Beraterin [MASK] .", "candidates": ["lacht", "lachen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Beraterin schwimmt .", "text_masked": "Die Beraterin [MASK] .", "candidates": ["schwimmt", "schwimmen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Beraterin redet .", "text_masked": "Die Beraterin [MASK] .", "candidates": ["redet", "reden"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Beraterin bleibt .", "text_masked": "Die Beraterin [MASK] .", "candidates": ["bleibt", "bleiben"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Beraterin trinkt .", "text_masked": "Die Beraterin [MASK] .", "candidates": ["trinkt", "trinken"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Frau lacht .", "text_masked": "Die Frau [MASK] .", "candidates": ["lacht", "lachen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Frau schwimmt .", "text_masked": "Die Frau [MASK] .", "candidates": ["schwimmt", "schwimmen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Frau redet .", "text_masked": "Die Frau [MASK] .", "candidates": ["redet", "reden"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Frau bleibt .", "text_masked": "Die Frau [MASK] .", "candidates": ["bleibt", "bleiben"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Frau trinkt .", "text_masked": "Die Frau [MASK] .", "candidates": ["trinkt", "trinken"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Polizistin lacht .", "text_masked": "Die Polizistin [MASK] .", "candidates": ["lacht", "lachen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Polizistin schwimmt .", "text_masked": "Die Polizistin [MASK] .", "candidates": ["schwimmt", "schwimmen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Polizistin redet .", "text_masked": "Die Polizistin [MASK] .", "candidates": ["redet", "reden"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Polizistin bleibt .", "text_masked": "Die Polizistin [MASK] .", "candidates": ["bleibt", "bleiben"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Polizistin trinkt .", "text_masked": "Die Polizistin [MASK] .", "candidates": ["trinkt", "trinken"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Richterin lacht .", "text_masked": "Die Richterin [MASK] .", "candidates": ["lacht", "lachen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Richterin schwimmt .", "text_masked": "Die Richterin [MASK] .", "candidates": ["schwimmt", "schwimmen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Richterin redet .", "text_masked": "Die Richterin [MASK] .", "candidates": ["redet", "reden"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Richterin bleibt .", "text_masked": "Die Richterin [MASK] .", "candidates": ["bleibt", "bleiben"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "Die Richterin trinkt .", "text_masked": "Die Richterin [MASK] .", "candidates": ["trinkt", "trinken"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "das Kind lacht .", "text_masked": "das Kind [MASK] .", "candidates": ["lacht", "lachen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "das Kind schwimmt .", "text_masked": "das Kind [MASK] .", "candidates": ["schwimmt", "schwimmen"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "das Kind redet .", "text_masked": "das Kind [MASK] .", "candidates": ["redet", "reden"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "das Kind bleibt .", "text_masked": "das Kind [MASK] .", "candidates": ["bleibt", "bleiben"], "indexMASK": -2, "case": "SimplSent_sg"}
+{"text": "das Kind trinkt .", "text_masked": "das Kind [MASK] .", "candidates": ["trinkt", "trinken"], "indexMASK": -2, "case": "SimplSent_sg"}
