@@ -1241,7 +1241,7 @@ def json_SVextendedModifier(case, number):
 SVVorf_sgsg =  grammar.CFG.fromstring("""
     % start S
     S -> NP_OBJ VVFIN NP_SUBJ '.'
-    NP_OBJ -> 'Diesen Roman' |'Diesen Film'| 'Diese Zeitschrift' | 'Diese Bank'
+    NP_OBJ -> 'Diesen Roman' |'Diesen Film'| 'Diesen Ring' | 'Diesen Stift'
     VVFIN -> 'empfahl' | 'gab'  | 'schenkte' | 'schickte' | 'verkaufte'
     NP_SUBJ -> ART_m NN_m | ART_f NN_f
     ART_m -> 'der'
@@ -1250,22 +1250,12 @@ SVVorf_sgsg =  grammar.CFG.fromstring("""
     NN_f ->'Senatorin' | 'Beraterin' |'Frau' | 'Polizistin' | 'Richterin'
 """)
 
-SVVorf_plpl =  grammar.CFG.fromstring("""
-    % start S
-    S -> NP_OBJ VVFIN NP_SUBJ '.'
-    NP_OBJ -> 'Diese Romane' |'Diese Filme'| 'Diese Zeitschriften' | 'Diese Banken'
-    VVFIN -> 'empfahlen' | 'gaben'  | 'schenkten' | 'schickten' | 'verkauften'
-    NP_SUBJ -> ART_pl NN_pl
-    ART_pl -> 'die'
-    NN_pl -> 'Autoren' | 'Piloten' | 'Kunden' | 'Lehrer'  | 'Senatorinnen' | 'Beraterinnen' |'Frauen' | 'Polizistinnen' | 'Richterinnen' | 'Kinder'
-
-""")
 
 # exclude fem because acc and nom is similar in German
 SVVorf_sgpl =  grammar.CFG.fromstring("""
     % start S
     S -> NP_OBJ VVFIN NP_SUBJ '.'
-    NP_OBJ -> 'Diese Romane' |'Diese Filme'| 'Diese Zeitschriften' | 'Diese Banken'
+    NP_OBJ -> 'Diese Romane' |'Diese Filme'| 'Diese Ringe' | 'Diese Stifte'
     VVFIN -> 'empfahl' | 'gab'  | 'schenkte' | 'schickte' | 'verkaufte'
     NP_SUBJ -> ART_m NN_m
     ART_m -> 'der'
@@ -1276,7 +1266,7 @@ SVVorf_sgpl =  grammar.CFG.fromstring("""
 SVVorf_plsg =  grammar.CFG.fromstring("""
     % start S
     S -> NP_OBJ VVFIN NP_SUBJ '.'
-    NP_OBJ -> 'Diesen Roman' |'Diesen Film'| 'Diese Zeitschrift' | 'Diese Bank'
+    NP_OBJ -> 'Diesen Roman' |'Diesen Film'| 'Diesen Ring' | 'Diesen Stift'
      VVFIN -> 'empfahlen' | 'gaben'  | 'schenkten' | 'schickten' | 'verkauften'
     NP_SUBJ -> ART_pl NN_pl
     ART_pl -> 'die'
@@ -1309,10 +1299,6 @@ def json_SVVorf(case, number):
         if case == SVVorf_sgsg:
               jsn_SVVorf['case'] = "SVVorf_sgsg"
               dump_jsonl(jsn_SVVorf, path+'/SVVorf_sgsg.jsonl', append = True)
-        
-        elif case == SVVorf_plpl:
-            jsn_SVVorf['case'] = "SVVorf_plpl"
-            dump_jsonl(jsn_SVVorf, path+'/SVVorf_plpl.jsonl', append = True)
 
         elif case == SVVorf_sgpl:
             jsn_SVVorf['case'] = "SVVorf_sgpl"
@@ -1481,7 +1467,7 @@ def json_RA_case(case, index):
 
 
 if __name__ == "__main__":
-
+    """
     json_SimplSent(SimplSent_sg, PL)
     json_SimplSent(SimplSent_pl, SG)
     
@@ -1542,12 +1528,12 @@ if __name__ == "__main__":
     json_SVextendedModifier(SVextendedModifier_plpl, SG)
     json_SVextendedModifier(SVextendedModifier_plsg, SG)
     json_SVextendedModifier(SVextendedModifier_sgpl, PL)
-    
+    """
     json_SVVorf(SVVorf_sgsg, PL)
     json_SVVorf(SVVorf_plpl, SG)
-    json_SVVorf(SVVorf_sgpl, SG)
-    json_SVVorf(SVVorf_plsg, PL)
-    
+    json_SVVorf(SVVorf_sgpl, PL)
+    json_SVVorf(SVVorf_plsg, SG)
+    """
     json_RA(ReflVerbs_simple_acc, -2)
     json_RA(ReflVerbs_longer_acc, -2)
     json_RA(ReflVerbs_SentCompl_acc,  -3)
@@ -1555,4 +1541,4 @@ if __name__ == "__main__":
     json_RA_case(ReflVerbs_simple_acc, -2)
     json_RA_case(ReflVerbs_longer_acc, -2)
     json_RA_case(ReflVerbs_SentCompl_acc,  -3)
-    
+    """
