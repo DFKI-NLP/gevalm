@@ -1467,7 +1467,7 @@ def json_RA_case(case, index):
 
 
 if __name__ == "__main__":
-    """
+    
     json_SimplSent(SimplSent_sg, PL)
     json_SimplSent(SimplSent_pl, SG)
     
@@ -1528,11 +1528,11 @@ if __name__ == "__main__":
     json_SVextendedModifier(SVextendedModifier_plpl, SG)
     json_SVextendedModifier(SVextendedModifier_plsg, SG)
     json_SVextendedModifier(SVextendedModifier_sgpl, PL)
-    """
+    
     json_SVVorf(SVVorf_sgsg, PL)
     json_SVVorf(SVVorf_sgpl, PL)
     json_SVVorf(SVVorf_plsg, SG)
-    """
+    
     json_RA(ReflVerbs_simple_acc, -2)
     json_RA(ReflVerbs_longer_acc, -2)
     json_RA(ReflVerbs_SentCompl_acc,  -3)
@@ -1540,4 +1540,4 @@ if __name__ == "__main__":
     json_RA_case(ReflVerbs_simple_acc, -2)
     json_RA_case(ReflVerbs_longer_acc, -2)
     json_RA_case(ReflVerbs_SentCompl_acc,  -3)
-    """
+    
