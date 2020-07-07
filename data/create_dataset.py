@@ -360,17 +360,17 @@ def json_SVmediumVPCoord(case, number):
         jsn_SVmediumVPCoord['candidates'] = candidates
         jsn_SVmediumVPCoord['indexMASK'] = -2
         if case == SVmediumVPCoord_sgsg:
-            jsn_SVshortVPCoord['case'] = "SVmediumVPCoord_sgsg"
+            jsn_SVmediumVPCoord['case'] = "SVmediumVPCoord_sgsg"
             dump_jsonl(jsn_SVshortVPCoord, path+'/SVmediumVPCoord_sgsg.jsonl', append = True)
         elif case == SVmediumVPCoord_plpl:
-            jsn_SVshortVPCoord['case'] = "SVmediumVPCoord_plpl"
+            jsn_SVmediumVPCoord['case'] = "SVmediumVPCoord_plpl"
             dump_jsonl(jsn_SVshortVPCoord, path+'/SVmediumVPCoord_plpl.jsonl', append = True)
         elif case == SVmediumVPCoord_sgpl:
-            jsn_SVshortVPCoord['case'] = "SVmediumVPCoord_sgpl"
+            jsn_SVmediumVPCoord['case'] = "SVmediumVPCoord_sgpl"
             dump_jsonl(jsn_SVshortVPCoord, path+'/SVmediumVPCoord_sgpl.jsonl', append = True)
         elif case == SVmediumVPCoord_plsg:
-            jsn_SVshortVPCoord['case'] = "SVmediumVPCoord_plsg"
-            dump_jsonl(jsn_SVshortVPCoord, path+'/SVmediumVPCoord_plsg.jsonl', append = True)
+            jsn_SVmediumVPCoord['case'] = "SVmediumVPCoord_plsg"
+            dump_jsonl(jsn_SVmediumVPCoord, path+'/SVmediumVPCoord_plsg.jsonl', append = True)
         
 
 # ---------- 1.4. Long VP coordination: Der Manager redet mit Dieter und *verfolgt das Fernsehprogramm.
@@ -1241,7 +1241,7 @@ def json_SVextendedModifier(case, number):
 SVVorf_sgsg =  grammar.CFG.fromstring("""
     % start S
     S -> NP_OBJ VVFIN NP_SUBJ '.'
-    NP_OBJ -> 'Diesen Roman' |'Diesen Film'| 'Diesen Ring' | 'Diesen Stift'
+    NP_OBJ -> 'Diesen Roman' |'Diesen Film'| 'Diese Zeitschrift' | 'Diese Bank'
     VVFIN -> 'empfahl' | 'gab'  | 'schenkte' | 'schickte' | 'verkaufte'
     NP_SUBJ -> ART_m NN_m | ART_f NN_f
     ART_m -> 'der'
@@ -1255,7 +1255,7 @@ SVVorf_sgsg =  grammar.CFG.fromstring("""
 SVVorf_sgpl =  grammar.CFG.fromstring("""
     % start S
     S -> NP_OBJ VVFIN NP_SUBJ '.'
-    NP_OBJ -> 'Diese Romane' |'Diese Filme'| 'Diese Ringe' | 'Diese Stifte'
+    NP_OBJ -> 'Diese Romane' |'Diese Filme'| 'Diese Zeitschriften' | 'Diese Banken'
     VVFIN -> 'empfahl' | 'gab'  | 'schenkte' | 'schickte' | 'verkaufte'
     NP_SUBJ -> ART_m NN_m
     ART_m -> 'der'
@@ -1266,7 +1266,7 @@ SVVorf_sgpl =  grammar.CFG.fromstring("""
 SVVorf_plsg =  grammar.CFG.fromstring("""
     % start S
     S -> NP_OBJ VVFIN NP_SUBJ '.'
-    NP_OBJ -> 'Diesen Roman' |'Diesen Film'| 'Diesen Ring' | 'Diesen Stift'
+    NP_OBJ -> 'Diesen Roman' |'Diesen Film'| 'Diese Zeitschrift' | 'Diese Bank'
      VVFIN -> 'empfahlen' | 'gaben'  | 'schenkten' | 'schickten' | 'verkauften'
     NP_SUBJ -> ART_pl NN_pl
     ART_pl -> 'die'
@@ -1530,7 +1530,6 @@ if __name__ == "__main__":
     json_SVextendedModifier(SVextendedModifier_sgpl, PL)
     """
     json_SVVorf(SVVorf_sgsg, PL)
-    json_SVVorf(SVVorf_plpl, SG)
     json_SVVorf(SVVorf_sgpl, PL)
     json_SVVorf(SVVorf_plsg, SG)
     """
