@@ -1,8 +1,9 @@
 # Evaluating German Transformer Language Models with Syntactic Agreement Tests
 
-Code and data for the Swiss Text Analytics Conference & Conference on Natural Language Processing (KONVENS) 2020 accepted paper by 
-Karolina Zaczynska, Nils Feldhus, Robert Schwarzenberg, Aleksandra Gabryszak and Sebastian Möller : 
-http://ceur-ws.org/Vol-2624/paper7.pdf
+Code and data for the paper by Karolina Zaczynska, Nils Feldhus, Robert Schwarzenberg, Aleksandra Gabryszak and Sebastian Möller:
+https://arxiv.org/abs/2007.03765  
+It originally appeared in the proceedings of the Swiss Text Analytics Conference & Conference on Natural Language Processing (KONVENS) 2020: http://ceur-ws.org/Vol-2624/paper7.pdf  
+We recommend to refer to the more recent arXiv publication, because it includes minor adjustments.
 
 
 ## Data
